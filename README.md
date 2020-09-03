@@ -7,6 +7,6 @@ I am Kritika Singhal. I am an inquisitive person who believes in learning by doi
 * :seedling: Currently exploring Nodejs.
 * :bookmark: Competent in [competitive programing](https://www.codechef.com/users/singhal99)
 * :handshake: I am looking for opportunities to contribute in Web Development.
-* :mailbox_closed: Reach me: [LinkedIn](www.linkedin.com/in/kritikasinghal30), [Email](https://github.com/Kritika-Singhal)
+* :mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/kritikasinghal30), [Email](https://github.com/Kritika-Singhal)
 
 [![Kritika's github stats](https://github-readme-stats.vercel.app/api?username=Kritika-Singhal)](https://github.com/Kritika-Singhal/github-readme-stats)
