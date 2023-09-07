@@ -1,12 +1,17 @@
 # **Hi there** :wave:
 
-I am Kritika Singhal. I am an inquisitive person who believes in learning by doing. I build and design things for the web.
+I am Kritika Singhal. I am an inquisitive person who believes in learning by doing. I am a DevOps Engineer at Decurtis Corporation.
 
-* :running: Contributing to [Codeuino](https://github.com/codeuino) for [Season Of Design](https://github.com/codeuino/Design-Initiative-Dashboard-frontend).
-* :pushpin: Things I have worked in: React, HTML, CSS, JavaScript.
-* :seedling: Currently exploring Nodejs.
+* :pushpin: Things I have worked on: Kubernetes, Jenkins, Ansible, Git, Google Cloud Platform.
+* :seedling: Currently exploring Cloud Functions in GCP.
+* :handshake: I am looking for opportunities to contribute in DevOps and Cloud.
+* :trophy: Achieved Certified Kubernetes Application Developer
+* :trophy: Achieved Google Cloud Cretified Application Developer
+* :trophy: Achieved RedHat Certified System Administrator
+* :mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/kritikasinghal30), [Email](singhalk30@gmail.com)
+* :running: Contributed to [Codeuino](https://github.com/codeuino) for [Season Of Design](https://github.com/codeuino/Design-Initiative-Dashboard-frontend)
 * :bookmark: Competent in [competitive programing](https://www.codechef.com/users/singhal99)
-* :handshake: I am looking for opportunities to contribute in Web Development.
-* :mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/kritikasinghal30), [Email](https://github.com/Kritika-Singhal)
+
+
 
 [![Kritika's github stats](https://github-readme-stats.vercel.app/api?username=Kritika-Singhal)](https://github.com/Kritika-Singhal/github-readme-stats)
