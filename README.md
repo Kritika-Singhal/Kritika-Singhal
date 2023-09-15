@@ -4,7 +4,7 @@ I am Kritika Singhal. I am an inquisitive person who believes in learning by doi
 
 * :pushpin: Things I have worked on: Kubernetes, Jenkins, Ansible, Git, Google Cloud Platform.
 * :seedling: Currently exploring Cloud Functions in GCP.
-* :handshake: I am looking for opportunities to contribute in DevOps and Cloud.
+* :handshake: I am looking for opportunities to contribute in DevOps.
 * :trophy: Achieved Certified Kubernetes Application Developer
 * :trophy: Achieved Google Cloud Certified Application Developer
 * :trophy: Achieved RedHat Certified System Administrator
